@@ -1,0 +1,79 @@
+body {
+    background-color: aqua;
+}
+h1{
+    margin: auto;
+    text-align: center;
+    background-color: blue;
+    border: 8px solid;
+    width: 80%;
+}
+.rule{
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: salmon;
+    border: 3px solid black;
+    }
+    
+    
+    .click{
+        height: 80px;
+        width: 80px;
+        border: 15px solid;
+        }
+
+     .randNumber{
+         width:150px;
+         height: 90px;
+         background-color: rgb(201, 230, 73);
+         margin-right: 10px;
+         font-size: 30px;
+         color:black;
+         margin: auto;
+         margin-top: 20px;
+         border: 2px solid blue;}
+         .crystals{
+            
+             margin-left: 525px;
+             margin-top: 20px;
+         }
+         .result{
+            width:120px;
+            height: 80px;
+            background-color: purple;
+           margin: auto;
+            text-align:left;
+            size: 5px;
+           margin-top: 20px;
+           border: 2px solid blue;
+        
+         }
+         .score{
+            width: 200px;
+            height:40px;
+            background-color:red;
+            margin: auto;
+            text-align: left;
+            border: 2px solid blue;
+            margin-top: 20px;
+        
+    }
+        #wins{
+            margin-top: 15px;
+        }
+       .totalScore{ width:180px;
+	height:90px;
+	background-color: #12B5A2;
+	font-size: 30px;
+    color: white;
+    margin: auto;
+    margin-top: 20px;
+}
+        
+            
+    
+    
